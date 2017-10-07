@@ -1,0 +1,4 @@
+# Virtualenv & .pyc riddance
+.Python
+.venv
+*.pyc
