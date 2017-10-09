@@ -48,7 +48,7 @@ This requires you to create a amazon aws account and a user with lambda,s3 and a
 
 ### Screenshots
 
-![alt text](https://i.imgur.com/DfMMyma.png "App Sample")
+![alt text](https://i.imgur.com/tiGlinR.png "App Sample")
 
 
 
