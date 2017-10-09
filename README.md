@@ -35,4 +35,4 @@ This requires you to create a amazon aws account and a user, copy the access tok
 * virtualenv .venv && source .venv/bin/activate
 * pip install -r requirements.txt
 * set aws credentials.
-* python deploy.py
+* bash deploy.sh
