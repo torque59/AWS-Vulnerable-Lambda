@@ -18,7 +18,7 @@ AWS lambda can be quite interesting when it is being kept warm. [AWS Lambda cold
 
 ### Research 
 
-There has been some good research done into AWS lambda:
+There has been some awesome research done into AWS lambda, some of these are i would highly recommend to read upon:
 
 * Infiltration by Rich Jones  [ Gone in 60 milliseconds ](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)
 
@@ -43,7 +43,7 @@ This requires you to create a amazon aws account and a user with lambda,s3 and a
 * bash deploy.sh
 * Use the url in the format - https://url/dev/hello?ping=ls
 
-** This is by no means meant for deploying at production, use it at your own risk
+** This is by no means meant for deploying at production, use it at your own risk.
 
 
 ### Screenshots
