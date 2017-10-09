@@ -41,7 +41,7 @@ This requires you to create a amazon aws account and a user with lambda,s3 and a
 * pip install -r requirements.txt
 * set aws credentials.(Create a new user in your aws account and add it in ~/.aws/credentials)
 * bash deploy.sh
-* Use the url in the format - https://url/dev/hello?ping=ls
+* Use the url in the format - https://url/dev/?ping=ls
 
 ** This is by no means meant for deploying at production, use it at your own risk.
 
