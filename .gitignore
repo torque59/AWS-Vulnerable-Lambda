@@ -2,3 +2,8 @@
 .Python
 .venv
 *.pyc
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride

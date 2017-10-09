@@ -1,0 +1,10 @@
+{
+    // The name of your stage
+    "dev": {
+        // The name of your S3 bucket
+        "s3_bucket": "prod.hugecorp.com",
+        "app_function": "main.app"
+	"parameter_depth": 1
+	"aws_region": "us-west-2"
+    }
+}
