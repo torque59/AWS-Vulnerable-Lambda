@@ -20,7 +20,7 @@ AWS lambda can be quite interesting when it is being cold started.
 
 ### Research 
 
-There has been some good research done into this by Rich Jones  [ Gone in 60 milliseconds ](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)
+There has been some good research done into AWS lambda infiltration by Rich Jones  [ Gone in 60 milliseconds ](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)
 
 Blackhat Talk 2017 - [HACKING SERVERLESS RUNTIMES: PROFILING AWS LAMBDA, AZURE FUNCTIONS, AND MORE](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
 
@@ -34,5 +34,16 @@ This requires you to create a amazon aws account and a user, copy the access tok
 * pip install awscli
 * virtualenv .venv && source .venv/bin/activate
 * pip install -r requirements.txt
-* set aws credentials.
+* set aws credentials.(Create a new user in your aws account and add it in ~/.aws/credentials)
 * bash deploy.sh
+* Use the url in the format - https://url/dev/hello?ping=ls
+
+** This is by no means meant for deploying at production, use it at your own risk
+
+
+### Screenshots
+
+
+
+
+
